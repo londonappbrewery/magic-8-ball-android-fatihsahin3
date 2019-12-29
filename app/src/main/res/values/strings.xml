@@ -2,4 +2,5 @@
     <string name="app_name">Magic Eight Ball</string>
     <string name="askButtonText">Ask</string>
     <string name="textViewText">Make everyday decisions easier!</string>
+    <string name="deneme">Merhaba</string>
 </resources>
